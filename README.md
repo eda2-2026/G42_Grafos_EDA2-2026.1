@@ -1,5 +1,7 @@
 # Detecção de Componentes com Grafos
 
+---
+
 **Disciplina:** FGA0030 - Estruturas de Dados e Algoritmos II  
 **Tema:** Grafos
 
