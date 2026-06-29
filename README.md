@@ -183,7 +183,7 @@ O projeto mostra uma aplicação prática de grafos em processamento de imagens.
 ## Apresentação
 
 <div align="center">
-  <a href="link" target="_blank">
+  <a href="https://youtu.be/8T84RpAZZa0" target="_blank">
     <strong>▶️ Clique aqui para assistir à apresentação no YouTube</strong>
   </a>
 </div>
